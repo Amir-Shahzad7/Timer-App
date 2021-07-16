@@ -1,0 +1,20 @@
+.controls-container button {
+    margin: 15px;
+    border: none;
+    border-radius: 20px;
+    padding: 3px 12px;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.stop-button {
+    background-color: #bb0000;
+}
+
+.start-button {
+    background-color: #3BD80D;
+}
+
+.reset-button {
+    background-color: #DAB600;
+}

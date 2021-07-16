@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+
+body {
+  margin: 0;
+  background-color: #111111;
+  font-family: 'Zen Loop', cursive;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #7E7E7E;
+}
+
+.time-container {
+    color: #7E7E7E;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 3px;
+}
+
+.time-container span {
+    position: relative;
+    top: 5px;
+    font-size: 4rem;
+}
+
+.timer-text {
+    margin: 0;
+    font-size: 5rem;
+}
